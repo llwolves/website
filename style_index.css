@@ -1,0 +1,20 @@
+body {
+	background: url("Images/Extras/IndexWolves.jpg") no-repeat top center;
+	background-color: black;
+}
+
+h1 {
+	color: black;
+	font-size: 3px;
+	margin: auto;
+}
+
+p, a {
+	color: RGB(227, 173, 64);
+	font-family: Impact, serial;
+	font-size: 100px;
+	text-decoration: uppercase;
+	text-align: center;
+	margin: auto;
+	margin-top: 580px;
+}
